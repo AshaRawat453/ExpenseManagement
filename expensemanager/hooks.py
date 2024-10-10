@@ -1,7 +1,7 @@
 app_name = "expensemanager"
-app_title = "Expense_Manager"
+app_title = "expense_manager"
 app_publisher = "asha rawat"
-app_description = "managing expenses"
+app_description = "manage expenses"
 app_email = "asharawat23@navgurukul.org"
 app_license = "mit"
 # required_apps = []

@@ -1,6 +1,6 @@
-## Expense_Manager
+## expense_manager
 
-managing expenses
+manage expenses
 
 #### License
 

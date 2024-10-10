@@ -3,7 +3,7 @@ name = "expensemanager"
 authors = [
     { name = "asha rawat", email = "asharawat23@navgurukul.org"}
 ]
-description = "managing expenses"
+description = "manage expenses"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
